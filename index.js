@@ -1,5 +1,6 @@
 "use strict";
-//猫のオブジェクトを作成
+/* TypeScriptの学習 */
+/* 基本 */
 const cat = {
     name: '太郎',
     height: 25,

@@ -1,5 +1,8 @@
-//猫のオブジェクトを作成
-const cat = {
+/* TypeScriptの学習 */
+
+
+/* 基本 */
+const cat = {  //猫のオブジェクトを作成
   name: '太郎',
   height: 25,
   color: '白'
@@ -10,6 +13,7 @@ console.log('猫は ' + cat.color + ' 色です');
 
 
 /* 型の設定についての学習 */
+
 
 //Arrayの型の設定方法は２種類存在
 const scores: number[] = [10, 20, 30];

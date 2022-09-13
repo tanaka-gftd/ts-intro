@@ -1,4 +1,5 @@
 "use strict";
+/* 型の学習、その２ */
 /* 型アサーションで、コンパイル時の型を指定する */
 let word = 'こんにちは';
 let wordLength = word.length; //unknown型を、文字列型としてコンパイルする

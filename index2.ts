@@ -1,3 +1,6 @@
+/* 型の学習、その２ */
+
+
 /* 型アサーションで、コンパイル時の型を指定する */
 let word: unknown = 'こんにちは';
 let wordLength = (word as string).length;  //unknown型を、文字列型としてコンパイルする
