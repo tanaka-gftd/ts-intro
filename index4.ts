@@ -1,6 +1,6 @@
 /* 練習問題 */
 
-let omikuji : '吉' | '凶';
+let omikuji : '吉' | '凶' | '大吉';
 
 const generateOmikujiResult = () => {
   const rand = Math.random()
